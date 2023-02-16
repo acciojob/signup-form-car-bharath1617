@@ -1,5 +1,10 @@
 form{
+	width:300px;
 	background-color: lightblue;
+}
+div{
+	margin:10px;
+}
 }
 h1{
 	color:orangered;
