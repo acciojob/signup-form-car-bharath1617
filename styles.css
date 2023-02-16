@@ -1,2 +1,14 @@
-
+form{
+	background-color: lightblue;
+}
+h1{
+	color:orangered;
+	padding:5px;
+	background:yellowgreen;
+	
+}
+input:hover{
+	background: Black;
+	color:white;
+}
 /* Your CSS Code here. */
